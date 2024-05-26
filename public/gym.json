@@ -1,0 +1,73 @@
+{
+    "membershipPlans": [
+        {
+            "id": 1,
+            "name": "Basic Monthly",
+            "price": 25.00,
+            "features": [
+                "Access to gym equipment",
+                "Locker room access"
+            ],
+            "duration": "1 month"
+        },
+        {
+            "id": 2,
+            "name": "Standard Monthly",
+            "price": 40.00,
+            "features": [
+                "Access to gym equipment",
+                "Locker room access",
+                "5 group fitness classes"
+            ],
+            "duration": "1 month"
+        },
+        {
+            "id": 3,
+            "name": "Premium Monthly",
+            "price": 60.00,
+            "features": [
+                "Access to gym equipment",
+                "Locker room access",
+                "Unlimited group fitness classes",
+                "1 personal training session per month",
+                "Access to sauna and spa"
+            ],
+            "duration": "1 month"
+        },
+        {
+            "id": 4,
+            "name": "Basic Annual",
+            "price": 250.00,
+            "features": [
+                "Access to gym equipment",
+                "Locker room access"
+            ],
+            "duration": "1 year"
+        },
+        {
+            "id": 5,
+            "name": "Standard Annual",
+            "price": 400.00,
+            "features": [
+                "Access to gym equipment",
+                "Locker room access",
+                "60 group fitness classes"
+            ],
+            "duration": "1 year"
+        },
+        {
+            "id": 6,
+            "name": "Premium Annual",
+            "price": 600.00,
+            "features": [
+                "Access to gym equipment",
+                "Locker room access",
+                "Unlimited group fitness classes",
+                "12 personal training sessions",
+                "Access to sauna and spa",
+                "Free gym merchandise"
+            ],
+            "duration": "1 year"
+        }
+    ]
+}
